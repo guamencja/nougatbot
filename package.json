@@ -1,0 +1,22 @@
+{
+  "name": "nougatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ./src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guamencja/nougatbot.git"
+  },
+  "author": "guamencja",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/guamencja/nougatbot/issues"
+  },
+  "homepage": "https://github.com/guamencja/nougatbot#readme",
+  "dependencies": {
+    "telegraf": "^4.11.2"
+  }
+}
