@@ -10,7 +10,7 @@ const run = (ctx) => {
         reason = 'being dumb';
     }
 
-    ctx.reply(`${issuer} have sued ${sued} for ${reason}`, { parse_mode: 'markdown' });
+    ctx.reply(`${issuer} has sued ${sued} for ${reason}`, { parse_mode: 'markdown' });
 }
 
 module.exports = {
